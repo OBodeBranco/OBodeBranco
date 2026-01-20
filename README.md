@@ -50,7 +50,7 @@ I have experience with the development of projects involving:
 
 
 ## 🗣️ Contact
-Get in touch at mrmarcelo.dev@gmail.com
+Get in touch at obodebranco@gmail.com
 
 
 ![snake gif](https://github.com/FraterD3V/FraterD3V/blob/output/github-contribution-grid-snake.svg)
